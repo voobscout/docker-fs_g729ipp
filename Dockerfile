@@ -1,7 +1,5 @@
-# Jenkins.
-
 FROM debian:jessie-backports
-MAINTAINER Voob of Doom <voobofdoom@gmail.com>
+MAINTAINER Voob of Doom <voobscout@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV GIT_SSL_NO_VERIFY 1
